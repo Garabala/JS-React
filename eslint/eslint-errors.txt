@@ -1,7 +1,5 @@
-Unexpected var, use let or const instead
-Expected '===' and instead saw '=='
-'c' is not defined
-Unary operator '++' used
-Return statement should not contain assignment
-'d' is not defined
-Insert `⏎`
+Expected to return a value at the end of function 'run'.
+Split 'var' declarations into multiple statements.
+Unexpected var, use let or const instead.
+Expected '===' and instead saw '=='.
+'c' is not defined.
