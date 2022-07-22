@@ -1,5 +1,7 @@
+consistent-return
 one-var
 no-var
 eqeqeq
 no-undef
-consistent-return
+no-plusplus
+
